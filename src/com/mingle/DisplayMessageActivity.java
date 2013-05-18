@@ -10,7 +10,7 @@ import android.widget.TextView;
  * User: mingle
  * Date: 13-5-7
  * Time: 下午9:54
- * desc
+ * desc: done
  */
 public class DisplayMessageActivity extends Activity {
     @Override
